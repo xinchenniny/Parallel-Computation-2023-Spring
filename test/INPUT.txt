@@ -1,0 +1,14 @@
+isHexahedral 0
+lx 1000
+ly 1000
+lz 1000
+thetaxy 0
+thetayz 0
+thetaxz 0
+support_SH 0
+diago_lib scalapack
+support_Periodic_Boundary 0
+multi_parallel_strategies 0
+points_path /data/test_cases/Point/point50.txt
+v_path /data/1a_bingxing/aaadazuoye/test/V.txt
+distribution_path /data/test_cases/Distribution/distribution80.txt
